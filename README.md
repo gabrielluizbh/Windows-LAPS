@@ -2,7 +2,7 @@
 
 ## **Conteúdo:**
 
-Script de implantação do LAPS.ps1
+Script de implantação do Windows LAPS.ps1
 
 ## **Mais informações:**
 
